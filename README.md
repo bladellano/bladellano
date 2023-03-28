@@ -44,7 +44,7 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 - https://baggioimoveis.com.br/ (frontend)
 - https://vegakia.com.br/ (frontend + backend)
 - https://labpixel.com.br/gasmig-gnv/ (manutenção - backend)
-- http://observatorio.fiesc.com.br/ (atuando através do CMS Drupal, criando features e manutenç) 	
+- http://observatorio.fiesc.com.br/ (atuando através do CMS Drupal, criando features e manutenção) 	
    	
     
     
