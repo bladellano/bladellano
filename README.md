@@ -42,7 +42,7 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 - http://portal.faam.com.br/ (frontend + backend)
 - https://ensinoamazonia.com.br/  (frontend + backend)
 - https://baggioimoveis.com.br/ (frontend)
-- https://www.vegakia.com.br/ (frontend + backend)
+- https://vegakia.com.br/ (frontend + backend)
 - https://labpixel.com.br/gasmig-gnv/ (manutenção - backend)
 - http://observatorio.fiesc.com.br/ (atuando através do CMS Drupal, criando features e manutenç) 	
    	
