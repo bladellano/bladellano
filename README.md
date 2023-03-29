@@ -21,8 +21,6 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
  - Drupal, Laravel, Wordpress, Slim, Zend Framework
  - Linux
  
-![Estatísticas do GitHub de Bladellano](https://github-readme-stats.vercel.app/api?username=bladellano&show_icons=true&theme=transparent)
-
 ### Habilidades
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
