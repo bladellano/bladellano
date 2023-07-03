@@ -3,7 +3,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5591982650277)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bladellano/)
 
-
 Atualmente desenvolvo, analiso, atualizo, projeto e implemento na Nyx Technology, aplicando melhorias e soluções em sistemas e portais. Trabalho com HTML, PHP, Zend Framework 2, Slim Framework 3, Laravel, Linux, Composer, Bower, Docker, Make, Npm, Yarn, Codeception, CMS Drupal, Javascript, Typescript, jQuery, Vue 2, Bootstrap, Gulp, CSS3, Scss/Sass, Less, MySql, Postgresql, Monday, Jira, Tortoise Svn, Git, entre outras tecnologias.
 
 Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes estruturados com regras claras. Quando recebo uma tarefa, procuro executá-la com precisão e atenção aos detalhes. Sou calmo e bom ouvinte, acompanho os processos sempre que possível.
@@ -35,6 +34,9 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 ![PHP](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Projetos em andamento
+- https://validar-certificado.paideiaeducacional.com/ (Laravel 9 + Vue JS 2)
 
 ### Últimos projetos relevantes
 - http://portal.faam.com.br/ (frontend + backend)
