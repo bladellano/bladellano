@@ -37,8 +37,10 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 
 ### Projetos em andamento
 - https://validar-certificado.paideiaeducacional.com/ (Laravel 9 + Vue JS 2)
+- https://1mio.com.br/ (Drupal)
 
 ### Últimos projetos relevantes
+- https://paideiaeducacional.com/ (frontend + backend)
 - http://portal.faam.com.br/ (frontend + backend)
 - https://ensinoamazonia.com.br/  (frontend + backend)
 - https://baggioimoveis.com.br/ (frontend)
