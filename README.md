@@ -36,8 +36,7 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 ![PHP](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Projetos em andamento
-- https://validar-certificado.paideiaeducacional.com/ (Laravel 9 + Vue JS 2)
-- https://1mio.com.br/ (Drupal)
+- https://validar-certificado.paideiaeducacional.com/ (Laravel 9 + Vue 2)
 
 ### Últimos projetos relevantes
 - https://paideiaeducacional.com/ (frontend + backend)
