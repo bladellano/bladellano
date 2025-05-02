@@ -40,12 +40,14 @@ Sou organizado e perfeccionista, preocupo-me com a qualidade. Gosto de ambientes
 
 ### Últimos projetos relevantes
 - https://paideiaeducacional.com/ (frontend + backend)
-- http://portal.faam.com.br/ (frontend + backend)
+- https://validar-certificado.paideiaeducacional.com/ (frontend + backend)
+- https://portal.faam.com.br/ (frontend + backend)
 - https://ensinoamazonia.com.br/  (frontend + backend)
 - https://baggioimoveis.com.br/ (frontend)
 - https://vegakia.com.br/ (frontend + backend)
 - https://labpixel.com.br/gasmig-gnv/ (manutenção - backend)
-- http://observatorio.fiesc.com.br/ (atuando através do CMS Drupal, criando features e manutenção) 	
+- https://1mio.com.br/ (manutenção - backend)
+- https://observatorio.fiesc.com.br/ (manutenção - backend) 	
    	
     
     
